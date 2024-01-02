@@ -4,3 +4,9 @@
 2. copy example-printer.cfg as printer.cfg and edit to your needs
 3. copy example-nozzle.cfg as your_nozzle_name.cfg and include it in your printer.cfg
 4. use macros PRINT_START and PRINT_END in your slicer
+5. enable object processing in moonraker.conf
+   ```   
+   [file_manager]
+   enable_object_processing: True
+   ```
+7. enjoy!
