@@ -3,7 +3,7 @@
 1. install KAMP - https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging
 2. Clone this directory
    ```
-   cd ~/printer_data
+   cd ~/printer_data/config
    git clone git@github.com:brabijan/klipper-configs.git
    cp klipper-configs/example-printer.cfg printer.cfg
    mkdir nozzles
